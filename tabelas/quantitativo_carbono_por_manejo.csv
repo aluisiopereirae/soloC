@@ -1,0 +1,7 @@
+revolvimento,irrigacao,talhoes,estoque_medio,taxa_media
+3<T<5 anos,IRRIGADO,6,42.73,0.42
+3<T<5 anos,SEQUEIRO,8,58.6,-0.2
+T<3 anos,IRRIGADO,13,48.09,0.1
+T<3 anos,SEQUEIRO,24,49.48,-0.14
+T>5 anos,IRRIGADO,4,48.65,0.45
+T>5 anos,SEQUEIRO,10,61.24,-0.03

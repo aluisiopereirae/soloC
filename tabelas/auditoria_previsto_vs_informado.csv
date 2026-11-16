@@ -1,0 +1,67 @@
+talhao,fazenda,safras_decl,safras_prev,cobertura_decl,cobertura_prev,cultivos_decl,cultivos_prev,irrigado_decl,irrigado_prev,ok_safras,ok_cobertura,ok_cultivos,ok_irrigacao,indice_conformidade,status,desvio_simulado
+1,Bela Vista,2.0,2.2,0.0,0,3.0,3,1.0,1,True,True,True,True,1.0,CONFORME,nenhum
+2,Bela Vista,2.0,2.2,0.0,0,3.0,3,1.0,1,True,True,True,True,1.0,CONFORME,nenhum
+3,Barcelona,1.0,1.0,0.0,0,3.0,1,0.0,0,True,True,False,True,0.75,ATENÇÃO,monocultura
+4,São Sebastião,1.0,1.0,1.0,0,3.0,2,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+5,São Sebastião,1.0,1.2,3.0,0,3.0,3,0.0,0,True,False,True,True,0.75,ATENÇÃO,nenhum
+6,Guarani,1.0,1.0,2.0,1,2.0,2,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+8,Santana,2.0,2.2,1.0,2,2.0,3,1.0,1,True,True,True,True,1.0,CONFORME,nenhum
+9,Guarani,1.0,1.0,2.0,1,2.0,2,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+10,Santana,2.0,2.6,1.0,0,2.0,3,1.0,1,False,True,True,True,0.75,ATENÇÃO,sem_cobertura
+11,Eliane,1.0,1.0,0.0,0,3.0,2,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+12,Eliane,1.0,1.0,0.0,0,3.0,3,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+13,São Sebastião,1.0,1.2,2.0,0,2.0,2,0.0,0,True,False,True,True,0.75,ATENÇÃO,nenhum
+14,São Sebastião,1.0,1.0,2.0,0,2.0,2,0.0,0,True,False,True,True,0.75,ATENÇÃO,nenhum
+15,Busato I,1.0,1.0,5.0,3,1.0,1,1.0,1,True,False,True,True,0.75,ATENÇÃO,nenhum
+16,Santa Rosa,1.0,1.0,2.0,0,2.0,2,0.0,0,True,False,True,True,0.75,ATENÇÃO,nenhum
+17,São Francisco,1.0,1.0,0.0,0,2.0,2,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+18,Rio Brilhante,1.0,1.0,2.0,0,2.0,1,0.0,0,True,False,True,True,0.75,ATENÇÃO,monocultura
+20,São Francisco,1.0,1.0,2.0,0,2.0,1,0.0,0,True,False,True,True,0.75,ATENÇÃO,nenhum
+21,Rio Brilhante,1.0,1.0,3.0,3,2.0,2,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+22,Zanotto,,1.0,,0,,2,,0,,,,,,SEM DECLARAÇÃO,nenhum
+23,Santo Antônio,2.0,2.0,1.0,0,3.0,4,1.0,1,True,True,True,True,1.0,CONFORME,nenhum
+24,Santo Antônio,2.0,1.8,1.0,0,3.0,3,1.0,1,True,True,True,True,1.0,CONFORME,nenhum
+25,Santana,2.0,1.8,0.0,0,2.0,3,1.0,1,True,True,True,True,1.0,CONFORME,nenhum
+26,Rio Brilhante,1.0,1.6,2.0,2,1.0,2,1.0,1,False,True,True,True,0.75,ATENÇÃO,nenhum
+27,Rio Brilhante,1.0,1.6,2.0,0,1.0,2,1.0,1,False,False,True,True,0.5,ATENÇÃO,nenhum
+28,Busato I,1.0,1.8,5.0,1,1.0,2,1.0,1,False,False,True,True,0.5,ATENÇÃO,nenhum
+29,Santo Antônio,2.0,2.0,1.0,0,3.0,4,1.0,1,True,True,True,True,1.0,CONFORME,nenhum
+30,Orquídeas,1.0,1.0,0.0,0,4.0,3,0.0,0,True,True,True,True,1.0,CONFORME,sem_cobertura
+31,Clarin,1.0,1.0,2.0,1,3.0,2,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+32,Savana,1.0,1.0,0.0,0,2.0,2,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+33,Savana,1.0,1.0,0.0,0,2.0,2,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+34,Orquídeas,1.0,1.0,0.0,0,3.0,3,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+35,Savana,1.0,1.0,0.0,0,2.0,2,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+36,Savana,1.0,1.0,0.0,0,2.0,2,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+37,Clarin,1.0,1.0,2.0,0,3.0,3,0.0,0,True,False,True,True,0.75,ATENÇÃO,sem_irrigacao
+38,7 povos,2.0,1.6,0.0,0,3.0,3,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+39,7 povos,2.0,1.4,0.0,0,3.0,3,0.0,0,False,True,True,True,0.75,ATENÇÃO,nenhum
+40,Cachoeira do Café,1.0,1.0,1.0,2,2.0,2,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+41,Orquídeas,1.0,1.0,0.0,0,4.0,2,0.0,0,True,True,False,True,0.75,ATENÇÃO,nenhum
+42,Clarin,1.0,1.0,2.0,0,3.0,2,0.0,0,True,False,True,True,0.75,ATENÇÃO,sem_cobertura
+43,Cachoeira do Café,1.0,1.0,1.0,1,2.0,2,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+44,Cachoeira do Café,1.0,1.0,1.0,0,3.0,1,0.0,0,True,True,False,True,0.75,ATENÇÃO,monocultura
+45,Clarin,1.0,1.0,2.0,1,2.0,1,0.0,0,True,True,True,True,1.0,CONFORME,monocultura
+46,ST. Inácio,1.0,1.6,0.0,0,2.0,3,1.0,1,False,True,True,True,0.75,ATENÇÃO,nenhum
+47,Orquídeas,1.0,1.0,0.0,0,3.0,3,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+48,Cachoeira do Café,1.0,1.0,0.0,0,2.0,2,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+49,ST. Inácio,1.0,1.6,0.0,0,3.0,3,1.0,1,False,True,True,True,0.75,ATENÇÃO,nenhum
+50,ST.Isabel,2.0,2.4,0.0,0,2.0,4,1.0,1,True,True,False,True,0.75,ATENÇÃO,nenhum
+51,Celeiro,2.0,1.8,0.0,0,3.0,4,1.0,1,True,True,True,True,1.0,CONFORME,sem_cobertura
+52,Celeiro,2.0,1.8,0.0,0,3.0,4,1.0,1,True,True,True,True,1.0,CONFORME,nenhum
+53,Celeiro,2.0,2.2,0.0,0,3.0,4,1.0,1,True,True,True,True,1.0,CONFORME,nenhum
+54,Celeiro,2.0,1.8,0.0,0,3.0,4,1.0,1,True,True,True,True,1.0,CONFORME,nenhum
+55,Brasholanda,,1.0,,0,,2,0.0,0,,,,True,1.0,CONFORME,nenhum
+56,Brasholanda,,1.0,,0,,2,0.0,0,,,,True,1.0,CONFORME,nenhum
+57,Brasholanda,,1.0,,0,,1,0.0,0,,,,True,1.0,CONFORME,nenhum
+60,ST.Isabel,2.0,1.8,0.0,0,2.0,3,1.0,1,True,True,True,True,1.0,CONFORME,nenhum
+64,Xanxêre,2.0,2.0,0.0,0,3.0,4,1.0,1,True,True,True,True,1.0,CONFORME,nenhum
+65,Xanxêre,2.0,1.8,0.0,1,2.0,3,1.0,1,True,True,True,True,1.0,CONFORME,nenhum
+66,Xanxêre,2.0,2.0,0.0,0,2.0,3,1.0,1,True,True,True,True,1.0,CONFORME,nenhum
+67,Barcelona,1.0,1.0,0.0,0,1.0,1,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+68,Guarani,1.5,1.2,0.0,0,3.0,3,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+69,Guarani,1.5,1.0,0.0,0,3.0,2,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+70,Guarani,1.5,1.4,0.0,0,3.0,2,0.0,0,True,True,True,True,1.0,CONFORME,nenhum
+71,Guarani,1.5,1.4,1.0,0,3.0,3,0.0,0,True,True,True,True,1.0,CONFORME,safra_extra
+72,Barcelona,1.0,1.0,0.0,0,1.0,1,0.0,0,True,True,True,True,1.0,CONFORME,sem_cobertura
+73,Barcelona,1.0,1.0,0.0,0,1.0,1,0.0,0,True,True,True,True,1.0,CONFORME,nenhum

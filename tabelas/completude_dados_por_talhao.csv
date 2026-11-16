@@ -1,0 +1,69 @@
+talhao,fazenda,pontos,coordenadas_%,ds_%,carbono,hlifs,quimica,manejo_informado
+1,Bela Vista,10,100.0,100.0,True,True,True,True
+2,Bela Vista,10,90.0,100.0,True,True,True,True
+3,Barcelona,8,100.0,100.0,True,True,True,True
+4,São Sebastião,10,100.0,100.0,True,True,True,True
+5,São Sebastião,10,80.0,100.0,True,True,True,True
+6,Guarani,10,100.0,100.0,True,True,True,True
+7,Barcelona,10,0.0,100.0,True,True,True,True
+8,Santana,10,100.0,100.0,True,True,True,True
+9,Guarani,10,100.0,100.0,True,True,True,True
+10,Santana,10,100.0,100.0,True,True,True,True
+11,Eliane,10,100.0,100.0,True,True,True,True
+12,Eliane,10,100.0,100.0,True,True,True,True
+13,São Sebastião,10,100.0,100.0,True,True,True,True
+14,São Sebastião,10,100.0,100.0,True,True,True,True
+15,Busato I,10,100.0,100.0,True,True,True,True
+16,Santa Rosa,10,100.0,100.0,True,True,True,True
+17,São Francisco,10,100.0,100.0,True,True,True,True
+18,Rio Brilhante,10,100.0,100.0,True,True,True,True
+20,São Francisco,10,100.0,100.0,True,True,True,True
+21,Rio Brilhante,10,100.0,100.0,True,True,True,True
+22,Zanotto,10,90.0,100.0,True,True,False,False
+23,Santo Antônio,10,100.0,100.0,True,True,False,True
+24,Santo Antônio,10,100.0,100.0,True,True,False,True
+25,Santana,10,100.0,100.0,True,True,False,True
+26,Rio Brilhante,10,70.0,100.0,True,True,True,True
+27,Rio Brilhante,10,100.0,100.0,True,True,True,True
+28,Busato I,2,100.0,100.0,False,False,False,True
+29,Santo Antônio,3,100.0,100.0,False,False,False,True
+30,Orquídeas,10,100.0,90.0,True,True,True,True
+31,Clarin,10,90.0,100.0,True,True,True,True
+32,Savana,10,100.0,100.0,True,True,True,True
+33,Savana,10,100.0,100.0,True,True,True,True
+34,Orquídeas,10,100.0,100.0,True,True,True,True
+35,Savana,10,100.0,100.0,True,True,True,True
+36,Savana,10,90.0,100.0,True,True,True,True
+37,Clarin,10,100.0,100.0,True,True,True,True
+38,7 povos,10,100.0,100.0,True,True,True,True
+39,7 povos,10,100.0,100.0,False,False,True,True
+40,Cachoeira do Café,10,100.0,100.0,False,False,True,True
+41,Orquídeas,10,100.0,100.0,False,False,True,True
+42,Clarin,10,100.0,100.0,False,False,True,True
+43,Cachoeira do Café,10,100.0,100.0,False,False,True,True
+44,Cachoeira do Café,10,100.0,100.0,False,False,True,True
+45,Clarin,10,100.0,100.0,False,False,True,True
+46,ST. Inácio,10,100.0,100.0,False,False,True,True
+47,Orquídeas,10,100.0,100.0,False,False,True,True
+48,Cachoeira do Café,10,100.0,100.0,False,False,True,True
+49,ST. Inácio,10,100.0,100.0,False,False,True,True
+50,ST.Isabel,10,100.0,100.0,False,False,True,True
+51,Celeiro,10,100.0,100.0,False,False,True,True
+52,Celeiro,10,100.0,100.0,False,False,True,True
+53,Celeiro,10,100.0,100.0,False,False,True,True
+54,Celeiro,10,100.0,90.0,False,False,True,True
+55,Brasholanda,10,100.0,100.0,False,False,True,False
+56,Brasholanda,10,100.0,100.0,False,False,True,False
+57,Brasholanda,10,100.0,100.0,False,False,True,False
+60,ST.Isabel,10,100.0,100.0,False,False,False,True
+61,ST.Isabel,10,0.0,0.0,False,False,False,True
+64,Xanxêre,10,100.0,100.0,False,False,True,True
+65,Xanxêre,10,100.0,100.0,False,False,False,True
+66,Xanxêre,10,100.0,100.0,False,False,True,True
+67,Barcelona,10,100.0,100.0,False,False,True,True
+68,Guarani,10,90.0,100.0,False,False,True,True
+69,Guarani,10,100.0,100.0,False,False,True,True
+70,Guarani,10,100.0,100.0,False,False,True,True
+71,Guarani,10,100.0,100.0,False,False,True,True
+72,Barcelona,10,100.0,100.0,False,False,True,True
+73,Barcelona,10,100.0,100.0,False,False,True,True
